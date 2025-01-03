@@ -1,2 +1,3 @@
 # Amazon_Sales_Analysis 
-![image](https://github.com/user-attachments/assets/79a037c9-e255-48ee-92e8-39bc8e6f4076)
+
+![image](https://github.com/user-attachments/assets/91a7a8aa-0e56-45de-9cd6-78b0435674b5)
