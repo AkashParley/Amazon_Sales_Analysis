@@ -5,8 +5,7 @@
  
 # 📊 Amazon Sales Analysis Dashboard
 
-![Dashboard Screenshot](![Uploading Dashboard.png…]()
-)
+![Dashboard Screenshot]()
 
 ## 📋 Project Overview
 This project focuses on analyzing **Amazon Sales Data** to uncover valuable business insights. With a cleaned dataset processed using **Python** and visualized through **Tableau**, the dashboard provides actionable insights into revenue, customer trends, geographical distribution, and category performance.
@@ -47,21 +46,13 @@ This project focuses on analyzing **Amazon Sales Data** to uncover valuable busi
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Image](https://your-dashboard-link.png)
+![Dashboard Image](https://public.tableau.com/views/Amazon_Sales_Dashboard_17368616825330/AmazomSalesAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Key Insights:**
 1. Top categories: T-shirt and Shirts contributed to the highest revenue.
 2. Majority of revenue came from metros like Bangalore and Mumbai.
 3. Repeat customers contributed significantly to sales growth.
 
----
 
-## 📁 Folder Structure
 
-```plaintext
-📂 Amazon-Sales-Analysis
-├── 📄 README.md              # Project overview
-├── 📄 amazon_sales_data.csv  # Cleaned dataset
-├── 📄 data_cleaning_script.py # Python script for cleaning data
-├── 📄 dashboard.twb          # Tableau workbook
-└── 📂 images                 # Visuals and screenshots
+
