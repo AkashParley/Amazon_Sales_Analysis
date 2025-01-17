@@ -1,3 +1,10 @@
+
+## 🏢 About Innobyte Services
+
+This project was assigned during my **Data Analyst Internship** at **Innobyte Services**, where I honed my skills in:
+- **Data Preprocessing**: Cleaning and transforming raw data into a structured format.
+- **Data Visualization**: Creating meaningful dashboards to derive actionable insights.
+
 # Amazon_Sales_Analysis 
 
 ![image](https://github.com/user-attachments/assets/91a7a8aa-0e56-45de-9cd6-78b0435674b5)
