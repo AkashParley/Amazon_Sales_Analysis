@@ -20,11 +20,8 @@ This project was assigned during my **Data Analyst Internship** at **Innobyte Se
 This project focuses on analyzing **Amazon Sales Data** to uncover valuable business insights. With a cleaned dataset processed using **Python** and visualized through **Tableau**, the dashboard provides actionable insights into revenue, customer trends, geographical distribution, and category performance.
 
 ---
-## 🏢 About Innobyte Services
-
-This project was assigned during my **Data Analyst Internship** at **Innobyte Services**, where I honed my skills in:
-- **Data Preprocessing**: Cleaning and transforming raw data into a structured format.
-- **Data Visualization**: Creating meaningful dashboards to derive actionable insights.
+## 🏢 Report
+[View the Report](https://github.com/AkashParley/Amazon_Sales_Analysis/blob/main/Amazon%20Sales%20Report%20Presentation.pdf)
 
 ---
 
