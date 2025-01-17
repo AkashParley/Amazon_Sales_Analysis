@@ -5,7 +5,8 @@
  
 # 📊 Amazon Sales Analysis Dashboard
 
-![Dashboard Screenshot](https://your-image-link.png)
+![Dashboard Screenshot](![Uploading Dashboard.png…]()
+)
 
 ## 📋 Project Overview
 This project focuses on analyzing **Amazon Sales Data** to uncover valuable business insights. With a cleaned dataset processed using **Python** and visualized through **Tableau**, the dashboard provides actionable insights into revenue, customer trends, geographical distribution, and category performance.
