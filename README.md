@@ -4,7 +4,7 @@
 
  
 # 📊 Amazon Sales Analysis Dashboard
-
+[Tableau Dashboard LINK](https://public.tableau.com/views/Amazon_Sales_Dashboard_17368616825330/AmazomSalesAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img width="1438" alt="Dashboard" src="https://github.com/user-attachments/assets/22746879-6753-4795-b644-86e2bd70f1bc" />
 
@@ -13,6 +13,25 @@
 This project focuses on analyzing **Amazon Sales Data** to uncover valuable business insights. With a cleaned dataset processed using **Python** and visualized through **Tableau**, the dashboard provides actionable insights into revenue, customer trends, geographical distribution, and category performance.
 
 ---
+## 🏢 About Innobyte Services
+
+This project was assigned during my **Data Analyst Internship** at **Innobyte Services**, where I honed my skills in:
+- **Data Preprocessing**: Cleaning and transforming raw data into a structured format.
+- **Data Visualization**: Creating meaningful dashboards to derive actionable insights.
+
+---
+
+## 📚 Tools Used
+- **Python**: For data cleaning and preparation.
+- **Tableau**: For dashboard creation and visualization.
+
+---
+
+## 🛠️ Prerequisites
+To run this project, you need the following:
+- **Python 3.x**
+  - Libraries: `pandas`, `numpy`
+- **Tableau Desktop** (or **Tableau Public** for free access)
 
 ## 🚀 Features
 
@@ -46,9 +65,6 @@ This project focuses on analyzing **Amazon Sales Data** to uncover valuable busi
 - Filters and slicers added for customized exploration of data.
 
 ---
-
-## 📊 Dashboard Preview
-![Dashboard Image](https://public.tableau.com/views/Amazon_Sales_Dashboard_17368616825330/AmazomSalesAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Key Insights:**
 1. Top categories: T-shirt and Shirts contributed to the highest revenue.
